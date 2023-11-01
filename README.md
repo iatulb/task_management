@@ -24,3 +24,20 @@ This will execute all the required dependecies.
 
 Then just do the flutter run and you are good to use the task management tool.
 
+## Project screenshots
+Once you do flutter run, the project will look alike this one.
+List view
+You can tap on the task to edit it.
+You have delete icon to delete the task.
+You can use switch button to change the status of the task.
+![image](https://github.com/iatulb/task_management/assets/23653187/c3b0b56d-1abb-42f8-9b66-c8a14db0c3d3)
+
+Clicking on task, you will get the edit task form
+![image](https://github.com/iatulb/task_management/assets/23653187/1e89640e-7951-49ff-8d60-8c7c43ee2ab1)
+
+Add new task form
+![image](https://github.com/iatulb/task_management/assets/23653187/02ad386d-a763-4fa5-a3b0-75eb737c0182)
+
+
+
+
