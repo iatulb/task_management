@@ -1,6 +1,6 @@
 # task_management
 
-A new Flutter project.
+A new Flutter project assignment done by Atul BAJARE (2022MT93549).
 
 ## Flutter set up if not done
 If you havent install flutter on windows, then you can follow steps mentioned in this article.
