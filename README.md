@@ -17,7 +17,7 @@ https://docs.flutter.dev/get-started/install/windows
 ## Git clone the repository
 
 you can use the command "git clone https://github.com/iatulb/task_management.git"
-Once project is at your directory, then go porject directory and execute the command 
+Once project is at your directory, then go project directory and execute the command 
 "flutter pub get"
 
 This will execute all the required dependecies.
